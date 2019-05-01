@@ -8,5 +8,5 @@ def key_for_min_value(name_hash)
       value.next <= value
       return key
   end
-  min_key
+  nil
 end
